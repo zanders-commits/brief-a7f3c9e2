@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zander's Daily Briefing</title>
+    <link>https://zanders-commits.github.io/brief-a7f3c9e2/</link>
+    <language>en-us</language>
+    <description>A private daily enterprise-sales briefing for Zander Srodes — open deals, competitors, internal updates, product news, and the day's agenda. Auto-generated each weekday morning.</description>
+    <itunes:author>Reeco Sales Intelligence</itunes:author>
+    <itunes:summary>A private daily enterprise-sales briefing for Zander Srodes — open deals, competitors, internal updates, product news, and the day's agenda. Auto-generated each weekday morning.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner><itunes:name>Reeco Sales Intelligence</itunes:name><itunes:email>zanders@reeco.com</itunes:email></itunes:owner>
+    <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
+
+  </channel>
+</rss>
