@@ -1,0 +1,74 @@
+DAILY BRIEFING — TUESDAY, JUNE 30, 2026
+For Zander Srodes, Head of Enterprise Sales, Reeco.
+
+OPENING
+
+Good morning, Zander. It's Tuesday, June 30th. Here's everything you need before your first meeting.
+
+Today is product-heavy and proposal-heavy. You open with the biweekly "What's coming from product" release preview, then the TPI proposal review at ten, and the Island call with both Henrik and Paul right after. The single headline: a lot is shipping on the product side this week — batch payments, automatic price updates for offline suppliers, and the payments-module pilot are all in motion — and your biggest open number, the one-point-nine-million-dollar Highgate opportunity, has just entered the pipeline.
+
+YOUR AGENDA TODAY
+
+First up, at nine-thirty Eastern, is the product team's biweekly "What's coming from product" session — the release preview they run every two weeks. Omri is on it along with the broader go-to-market team. Treat this as your single best source for what to demo next.
+
+At ten, you have the TPI and Reeco proposal review, thirty minutes, with Paul and Matt from TPI Hospitality. That's tied to the TPI Net New deal, which is about one hundred twenty-two thousand dollars and sitting in proposal.
+
+At ten-thirty, the Island and Reeco call — and this is the one to prep for. Henrik and Paul are both on it, along with Robert Auerbach from the Island side. Two of your senior people in the room means alignment beforehand matters.
+
+At one-thirty, a HITEC debrief with Brett from Snapfix. And at three-forty-five, an industry catch-up with Gabe Mejia from Optii Solutions.
+
+OPEN OPPORTUNITIES
+
+Lead with Highgate Hotels. It's roughly one-point-nine-two million dollars, it entered the pipeline on June nineteenth, and it's still early-stage. That's your largest open number by a wide margin — it deserves a deliberate, named push, not a drift.
+
+Next, Sage Hospitality, about five hundred seventy-one thousand dollars. From your one-on-one with Paul yesterday, the Sage contract is nearing finalization. The move is to have the contract documents and service credits ready so you can execute the moment Nick delivers the list you're waiting on.
+
+Peregrine Hospitality is open at about five hundred thirteen thousand dollars. TPI Net New, the one hundred twenty-two thousand dollar proposal, gets its review at ten. And Lexima AP Automation, about seventy-three thousand eight hundred dollars — Rachel on the M3 side is following up on deal status; it came up directly in Monday's Corpay, M3, and Reeco planning call.
+
+You also have a cluster of HITEC 2026 follow-ups in motion — Peachtree Group, OTO Development, Lark, Coury, Schulte, and Westmont — several of which were touched as recently as today.
+
+One strategic thread from the Paul one-on-one: the Avendra co-sell. You're building a prioritized target list with Bill and Annette, and the reminder is to manage the Food Buy competitive sensitivities carefully as that list comes together.
+
+INTERNAL UPDATE
+
+The meeting to flag is today's Island and Reeco call at ten-thirty, because it puts both Henrik and Paul in the room with the customer. There's no recap yet — it hasn't happened — so the action is simple: grab a few minutes with Henrik and Paul first so the three of you walk in aligned on the ask.
+
+For context from yesterday's one-on-one with Paul: beyond Sage, you covered the Kana pilot billing terms, a communication gap with M3 and Sandpiper that Lisa Quattrano can help unblock, and the mesh-card expense cleanup. Paul's on call or text through the week if anything needs a fast decision.
+
+PRODUCT UPDATES
+
+This is the heavy section today, and there's real movement.
+
+Batch payments. In Monday's M3 and Reeco weekly, the teams scoped grouping multiple vendor invoices into a single transaction to cut per-transfer wire fees and ease reconciliation. A new API is being built to handle batching while leaving existing payment flows intact, and Vision has been selected as the pilot customer. Both technical teams are sizing the effort this week.
+
+The payments module pilot. In the V and C, AP, and Payments daily, Yuval finalized budget adjustments ahead of the pilot launch — so the new payments module is moving from build toward live testing.
+
+Automatic price updates for offline suppliers. The price-update sync this morning detailed an opt-in feature where, for offline private suppliers, invoice uploads can automatically update pricing — with a new "updated-date" field so price history stays honest. The revenue and efficiency squad owns the configuration; Andre's squad builds the job logic; manual overrides are respected.
+
+A few more: property setup text is moving into Google Sheets so the team can change it without code, removing a developer bottleneck. The AI cards feature is in active development, the bulk-upload feature has been merged and is in QA, and the Orango feature is in QA with a demo coming from Manana. And on the engineering side — a strong proof point — the team migrated from SQL Server to Postgres using AI in about five hours, a job that normally takes months.
+
+FEATURE SPOTLIGHT — AUTOMATIC PRICE UPDATES FOR OFFLINE SUPPLIERS
+
+Here's the feature to put in your pocket: automatic, invoice-based price updates for offline suppliers.
+
+The problem it solves: for offline or private suppliers, prices drift out of date, buyers see stale numbers, and that erodes trust in the whole platform. We heard exactly that friction in a customer workflow review last week, where pricing inaccuracies were undermining user confidence.
+
+Who it's for: essentially any customer with offline or private suppliers — which is most portfolios.
+
+How to demo it: show the opt-in toggle on the buyer-supplier connection, upload an invoice, and let the price update on its own. Then show the price history with the new updated-date field, and point out that any manual price the buyer set is respected.
+
+The competitive angle: BirchStreet announced an AI "Smart AP" product back in February, so buyers are hearing a lot of AP-automation noise. This is a concrete, unglamorous, trust-building win — keeping pricing accurate without manual babysitting.
+
+Discovery questions: How many offline suppliers are you ordering from? How do you keep their pricing current today? And who on your team is catching stale prices before they cause a problem?
+
+The likely objection — "we set prices manually" — has a clean answer: manual prices are respected, and the updated-date field gives you a clear history of every change.
+
+HOSPITALITY INDUSTRY WATCH
+
+Three quick reads on the market. Development capital is still flowing into full-service: per Skift on June twenty-fifth, Portman closed five hundred forty million dollars in financing to build a seven-hundred-room Marriott in downtown Cincinnati. On the demand side, Apple Hospitality REIT's first-quarter results showed comparable revenue of about three hundred thirty-seven million dollars with RevPAR up two-point-two percent and net debt at thirty-seven percent of capitalization — steady fundamentals. And the NYU hospitality investment forum drew more than seven hundred investors representing about seven hundred twenty-three billion dollars in hotel assets under management, with executives striking an optimistic tone even against soft consumer sentiment. The takeaway for you: owners and management companies still have capital and confidence, which supports new-logo conversations.
+
+CLOSING
+
+Three priorities today. First, walk into the ten-thirty Island call aligned with Henrik and Paul. Second, tighten the TPI proposal in the ten o'clock review. Third, push Sage to signature — have the service-credit documents ready so you can move the instant Nick's list lands.
+
+Good luck.

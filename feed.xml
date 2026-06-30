@@ -11,6 +11,14 @@
     <itunes:type>episodic</itunes:type>
     <itunes:owner><itunes:name>Reeco Sales Intelligence</itunes:name><itunes:email>zanders@reeco.com</itunes:email></itunes:owner>
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
-
+    <item>
+      <title>Daily Briefing — Tuesday, June 30</title>
+      <description>Highgate&#x27;s $1.92M deal enters the pipeline, Sage nears signature, and a heavy product week — batch payments, offline-supplier auto price updates, and the payments pilot.</description>
+      <enclosure url="https://zanders-commits.github.io/brief-a7f3c9e2/episodes/ep-2026-06-30.mp3" length="15244571" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-30-briefing</guid>
+      <pubDate>Tue, 30 Jun 2026 11:00:00 +0000</pubDate>
+      <itunes:duration>31:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
