@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#0b1f33" />
+<title>Zander's Daily Briefing</title>
+<style>
+  :root { --bg:#0b1f33; --card:#12273d; --accent:#2bb673; --text:#eaf2f8; --muted:#8aa3b8; --line:#1d3a55; }
+  * { box-sizing:border-box; -webkit-tap-highlight-color:transparent; }
+  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+         background:linear-gradient(180deg,#0b1f33,#091726); color:var(--text); min-height:100vh; }
+  .wrap { max-width:680px; margin:0 auto; padding:24px 18px 60px; }
+  .brand { font-size:13px; letter-spacing:2px; text-transform:uppercase; color:var(--accent); font-weight:700; }
+  h1 { font-size:22px; margin:6px 0 2px; }
+  .date { color:var(--muted); font-size:14px; margin-bottom:22px; }
+  .hero { background:var(--card); border-radius:18px; padding:22px; box-shadow:0 10px 30px rgba(0,0,0,.35); }
+  .hero h2 { font-size:18px; margin:0 0 4px; }
+  .hero .meta { color:var(--muted); font-size:13px; margin-bottom:16px; }
+  audio { width:100%; margin-top:8px; }
+  .play { display:flex; align-items:center; justify-content:center; gap:10px; width:100%;
+          background:var(--accent); color:#04130c; border:none; border-radius:14px;
+          font-size:18px; font-weight:700; padding:18px; margin-top:6px; cursor:pointer; }
+  .play:active { transform:scale(.98); }
+  .sub { font-size:13px; color:var(--muted); margin:14px 2px 6px; }
+  .feedrow { display:flex; gap:10px; margin-top:10px; }
+  .feedrow a { flex:1; text-align:center; background:#0e2236; border:1px solid var(--line);
+               color:var(--text); text-decoration:none; padding:12px; border-radius:12px; font-size:13px; }
+  h3.archtitle { margin:30px 2px 8px; font-size:14px; color:var(--muted); text-transform:uppercase; letter-spacing:1px; }
+  .ep { background:var(--card); border-radius:14px; padding:14px 16px; margin-bottom:10px; }
+  .ep .t { font-weight:600; font-size:15px; }
+  .ep .d { color:var(--muted); font-size:12px; margin:2px 0 8px; }
+  .ep audio { height:34px; }
+  .empty { color:var(--muted); padding:30px 0; text-align:center; }
+  a.dl { color:var(--accent); font-size:12px; text-decoration:none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="brand">Reeco &middot; Enterprise Sales</div>
+  <h1>Your Daily Briefing</h1>
+  <div class="date" id="today"></div>
+
+  <div class="hero" id="hero"><div class="empty">Loading today's episode&hellip;</div></div>
+
+  <div class="sub">Listen in your podcast app &mdash; new episode appears automatically each morning:</div>
+  <div class="feedrow">
+    <a id="applefeed" href="#">Open in Apple Podcasts</a>
+    <a id="rssfeed" href="feed.xml">Copy RSS link</a>
+  </div>
+
+  <h3 class="archtitle">Archive</h3>
+  <div id="archive"></div>
+</div>
+
+<script>
+  const fmt = d => new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
+  document.getElementById('today').textContent = new Date().toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+  const feedUrl = location.href.replace(/index\.html$/,'').replace(/\/$/,'') + '/feed.xml';
+  document.getElementById('rssfeed').addEventListener('click', e => {
+    e.preventDefault();
+    navigator.clipboard.writeText(feedUrl);
+    e.target.textContent='RSS copied ✓';
+    setTimeout(()=>e.target.textContent='Copy RSS link',1500);
+  });
+  document.getElementById('applefeed').href = 'podcast://' + feedUrl.replace(/^https?:\/\//,'');
+
+  fetch('episodes.json?cb=' + Date.now())
+    .then(r => r.ok ? r.json() : [])
+    .then(eps => {
+      eps = (eps || []).sort((a,b)=> b.date.localeCompare(a.date));
+      const hero = document.getElementById('hero');
+      if (!eps.length) { hero.innerHTML = '<div class="empty">No episodes yet. Your first briefing will appear here.</div>'; return; }
+      const top = eps[0];
+      hero.innerHTML =
+        '<h2>'+top.title+'</h2>'+
+        '<div class="meta">'+fmt(top.date)+(top.duration?' · '+top.duration:'')+'</div>'+
+        '<audio id="a0" controls preload="none" src="'+top.audio+'"></audio>'+
+        '<button class="play" onclick="document.getElementById(\'a0\').play()">▶︎  Play today’s briefing</button>'+
+        (top.transcript?'<div style="margin-top:12px"><a class="dl" href="'+top.transcript+'">View transcript</a></div>':'');
+      const arch = document.getElementById('archive');
+      if (eps.length === 1) { arch.innerHTML = '<div class="empty">Past episodes will collect here.</div>'; return; }
+      eps.slice(1).forEach(ep=>{
+        const el = document.createElement('div'); el.className='ep';
+        el.innerHTML = '<div class="t">'+ep.title+'</div><div class="d">'+fmt(ep.date)+(ep.duration?' · '+ep.duration:'')+'</div>'+
+          '<audio controls preload="none" src="'+ep.audio+'"></audio>';
+        arch.appendChild(el);
+      });
+    })
+    .catch(()=>{ document.getElementById('hero').innerHTML='<div class="empty">Could not load episodes.</div>'; });
+</script>
+</body>
+</html>
