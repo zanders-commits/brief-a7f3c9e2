@@ -1,4 +1,20 @@
 [
- {"date":"2026-07-01","title":"Daily Briefing — Wednesday, July 1","audio":"episodes/ep-2026-07-01.mp3","transcript":"episodes/ep-2026-07-01.txt","duration":"8:44","bytes":5238641,"summary":"Meetings: Crescent/Adam Butts (11a), internal pipeline (1p), Drury check-in (2:30), Ted Jabara/Meyer Jabara (4p). Internal: Reeco-Avendra exec sync (no Zander). Product: M3+Corpay payments live, 3-way PO match GA, credit memos, self-serve AP integrations."},
- {"date":"2026-06-30","title":"Daily Briefing — Tuesday, June 30","audio":"episodes/ep-2026-06-30.mp3","transcript":"episodes/ep-2026-06-30.txt","duration":"37:55","bytes":18201841,"summary":"Headline briefing (NotebookLM v2): Highgate $1.92M enters pipeline; Sage nears signature; product batch payments, offline price updates."}
+ {
+  "date": "2026-07-01",
+  "title": "Daily Briefing \u2014 Wednesday, July 1",
+  "audio": "episodes/ep-2026-07-01.mp3",
+  "transcript": "episodes/ep-2026-07-01.txt",
+  "duration": "10:02",
+  "bytes": 6023168,
+  "summary": "Meetings: Crescent/Adam Butts 11a (monthly touchpoint; RFP clock ticking, Avendra bundle is the play), Pipeline 1p, Drury check-in 2:30 internal, Ted Jabara/Meyer Jabara call 4p. Top 5: Kana Closed Won today, Crescent Avendra data-sharing status, Jabara Sage Intacct gate, Lexima+Sage Pilot 7/11 close, Vacatia follow-up overdue. Product: Payments Phase 1 live (M3+Corpay), AI PO match 80-90%, Avendra 344K items, Inventory module July."
+ },
+ {
+  "date": "2026-06-30",
+  "title": "Daily Briefing \u2014 Tuesday, June 30",
+  "audio": "episodes/ep-2026-06-30.mp3",
+  "transcript": "episodes/ep-2026-06-30.txt",
+  "duration": "37:55",
+  "bytes": 18201841,
+  "summary": "Headline briefing (NotebookLM v2): Highgate $1.92M enters pipeline; Sage nears signature; product batch payments, offline price updates."
+ }
 ]

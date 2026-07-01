@@ -1,69 +1,167 @@
-Reeco daily briefing. Wednesday, July first, twenty twenty-six. Prepared for Zander.
+Good morning. Today is Wednesday, July 1, 2026.
 
-Good morning, Zander. Here is your briefing for Wednesday, July first.
+You have four meetings on the calendar. Here is the lineup.
 
-Today's meetings, the headlines. You have five items. At eleven a.m., your monthly touchpoint with Adam Butts at Crescent Hotels. At one p.m., the internal weekly sales pipeline meeting with Paul, Katie, Bill, and Jessica. At two thirty, a Drury account check-in with Armand. At four p.m., your call with Ted Jabara at Meyer Jabara Hotels. You also have a three forty-five HVAC block.
+Eleven A.M.: Monthly touchpoint with Adam Butts at Crescent Hotels and Resorts. That call is happening now or has just wrapped.
 
-Meeting one. Eleven a.m. Crescent Hotels. You are meeting Adam Butts, Senior Vice President of Procurement Operations and Systems. He owns all procurement, FF and E, and project management. This is your standing monthly touchpoint.
+One P.M.: Weekly sales pipeline meeting. Internal — Paul Bennie, Bill Green, Katie Adgent tentative, and Jessica Kramer.
 
-Your last call was June fourth, a twenty-five minute touchpoint. You covered A.I. purchase-order matching at eighty to ninety percent confidence, the new batch payments feature across M3 and CorePay, and Avendra's supplier catalog integration of over three hundred forty-four thousand items. The agreed next step was to coordinate a meeting with Todd, and to demo the A.I. procurement cart built from par levels.
+Two-thirty P.M.: Drury check-in with Armand Austin. Internal alignment on the Drury F and B deal.
 
-The facts on Crescent. One hundred twelve properties. The GPO is Avendra, and the key lever is that general managers must hit eighty percent compliance with Avendra-approved suppliers to qualify for their bonuses. The GPO contract end date is not on file. Accounting is M3, which is a native Reeco integration. The purchasing platform is BirchStreet, branded internally as CrescentWay, and they have post-transition pain with it. Business intelligence is ProfitSword. POS is unknown and still needs discovery. The deal is in the Demo stage, the amount is six hundred fifty thousand four hundred dollars, close date December fifteenth, and Bill co-owns it. There is a formal RFP coming in twenty twenty-six. You cannot close outside of it, so the strategy is to be positioned as the Avendra-recommended solution before it launches. Two open product gaps Adam flagged on February eleventh: bulk G.L. splits at purchase-order checkout, and invoice variance alerts. One flag: this deal has had no logged contact in twenty-seven days.
+Four P.M.: You are calling Ted. That is Ted Jabara the Third at Meyer Jabara Hotels. His email is T J at M J hotels dot com.
 
-Meeting two. One p.m. The internal weekly sales pipeline meeting, with Paul Bennie, Katie Adgent, Bill Green, and Jessica Kramer. Bring your close-date decisions for the three deals that expire today: the Sage pilot, Lexima, and Lodging Dynamics. More on those in your stuck list and your top five.
+You also have an H-VAC appointment at three forty-five.
 
-Meeting three. Two thirty p.m. A Drury Hotels account check-in with Armand, internal. The facts on Drury: family-owned, more than one hundred fifty hotels. The GPO is none, confirmed June twenty-sixth; they run a vertically integrated, direct-contract model. The E.R.P. and core supply chain is Workday, and they are happy with it, so there is no path there. The POS is Toast, rolling out now. Your only entry is food and beverage, the roughly forty kitchen-and-bar properties, through the Toast integration. The primary contact is Joseph Appelbaum, and the corporate food-and-beverage lead to reach is Alan Kiefer. The last substantive call was May sixth. Stage is Demo, probability thirty percent.
+---
 
-Meeting four. Four p.m. You are calling Ted Jabara the Third, principal at Meyer Jabara Hotels. Your champion there is Daroyl McDonald, Senior Vice President of Procurement. The facts: the GPO is FoodBuy. Accounting is Sage 100, which is outdated, and Daroyl knows they need to upgrade, which is your opening to position M3 plus Reeco as a bundle. POS and purchasing platform are unknown. Roughly forty hotels, about four thousand rooms; the ballpark is two hundred eighty-eight thousand dollars of A.R.R. at about six hundred dollars per hotel. The incumbents to replace are DocLink and Ancora for accounts payable. The barrier is accounting-team resistance, so position Reeco as the operations layer above accounting. The last demo was May eleventh; Ted had a conflict and missed it. Stage is Qualified, close date August thirty-first.
+Meeting one. Eleven A.M. Crescent Hotels and Resorts. Adam Butts.
 
-Industry news. Sources are named.
+Adam is Senior Vice President, Procurement Operations and Systems at Crescent. He came over from Interstate Aimbridge and today owns all of Crescent's procurement — purchasing, project management, and F.F. and E. He is your champion on this deal.
 
-Per Skift, June twenty-fifth: Portman closed five hundred forty million dollars in financing to build a seven hundred room Marriott in downtown Cincinnati. Development capital is still moving on full-service.
+Last substantive call was June 4, about 27 days ago. You covered three things on that call: the A.I. P.O. matching running at 80 to 90 percent confidence, the new batch payments across M3 and CorePay/PayMerang, and the Avendra supplier catalog now at 344,000 items across roughly 300 suppliers. Agreed next step from that call was to coordinate a High Tech meeting with Todd and demo the A.I. par-to-cart feature at the next touchpoint. Note: Todd Slann's email bounced in May — he may have left the company. HubSpot logged a contact at 11 A.M. Eastern today — first touch since June 4.
 
-Apple Hospitality REIT reported first-quarter comparable revenue of about three hundred thirty-seven million dollars, with revenue per available room up two point two percent, and net debt at thirty-seven percent of capitalization.
+The standing monthly agenda: Reeco payments updates, the Avendra official partnership and contract status, the G.P.O. landscape including H.S.M. and others backing Reeco in customer G.P.O. R.F.Ps, and A.I. procurement direction.
 
-The N.Y.U. hospitality investment forum drew more than seven hundred investors, representing about seven hundred twenty-three billion dollars in assets under management.
+Fact block. Crescent has 112 properties. G.P.O. is Avendra — and this is your most powerful lever with this account: G.M.s at Crescent must hit 80 percent compliance with Avendra-approved suppliers to qualify for their bonuses. Accounting system is M3 — Reeco is M3's exclusive procurement and A.P. automation partner, real-time A.P.I., waived integration fees. Purchasing platform is BirchStreet, internally called CrescentWay — incumbent but disliked after the transition. B.I. is ProfitSword. P.O.S. is unknown, not yet surfaced. Deal is at Demo stage, $650,400, close date December 15.
 
-On your active accounts specifically, no material company news surfaced today for Crescent, Drury, or Meyer Jabara.
+Two product gaps Adam flagged on the February 11 demo are still open: bulk G.L. splits at P.O. checkout, and invoice variance and line-level discrepancy alerts. Neither is available yet. Do not claim they are.
 
-Competitor news. Sources are named.
+Strategic context. Crescent is going to R.F.P. in 2026. The company will not buy outside a formal process. Whoever is positioned as the Avendra-recommended solution before that R.F.P. launches wins. Paul Bennie is working a data sharing agreement with Avendra that would lock that position in. That agreement is the clock.
 
-BirchStreet, the incumbent at Crescent, announced an A.I. Smart A.P. product in February, per PR Newswire. This matters because your wedge at Crescent is their BirchStreet pain, so expect a counter built on accounts-payable automation messaging.
+One competitive note from Slack intelligence on June 3: Bill Green flagged that a competitor hired Jon Castillo — ex-VP at BirchStreet who Adam speaks highly of. That is a relationship to watch.
 
-Staffing intelligence, from Bill Green in the competitors channel on June third: a competitor hired Jon Castillo, an ex-BirchStreet vice president whom Adam Butts at Crescent speaks highly of, along with Karen O'Neill as a go-to-market sales leader. Adam's respect for Castillo is a relationship vector to watch.
+One news item directly relevant to this call. On June 30, Folio — a hospitality procure-to-pay platform — was named a Preferred Partner in Avendra International's eProcurement Solutions Network, per Hotel Online. A major North American hotel management company already saw Avendra program participation increase by over 10 percent after deploying Folio. Folio is now in the Avendra network. That is a competitive signal in your lane. Know it.
 
-Internal updates. These are leadership calls that included two or more of Henrik, Omri, Katie, or Paul, and that you were not on.
+---
 
-Yesterday, June thirtieth, the weekly Reeco and Avendra sync. On the call: Henrik, Omri, and Paul, along with Roni, Yaniv, and Armand, plus Jesse Messitte and Jessica Fernandez from Avendra. The key points. The Avendra API integration is near complete, and an internal validation demo was scheduled to confirm functionality. Supplier engagement is the priority: the team is re-engaging Vistar, which has gone inactive, and working a customer integration request for Cintas to meet Vision Hospitality's needs. The partnership with Amazon has ended over category-management conflicts, though customers can still opt into an Amazon integration if they want it. And US Foods onboarding for Avendra clients is showing inconsistencies that the team is pushing to fix. Omri is providing the engineering support for the API testing. That is the only leadership call in the window that met the two-executive bar without you on it.
+Meeting two. One P.M. Weekly Sales Pipeline Meeting. Internal.
 
-Things stuck. One note: the Slack connector is not available to me right now, so this is drawn from today's vault crack-check, not a live Slack scan.
+Paul Bennie, Bill Green, Katie Adgent tentative, Jessica Kramer. Standard Wednesday pipeline review. You will want to flag Kana Hotel Group — the close date expired yesterday — and push Lexima and Sage Pilot decisions, both closing July 11.
 
-The Sage pilot, forty-six thousand three hundred sixty-eight dollars, closes today. It is blocked on Nick Murray confirming the pilot property list; you asked June twenty-fifth and have no reply.
+---
 
-Lexima A.P. automation, seventy-three thousand eight hundred dollars, closes today, with an open task on Nick Auer.
+Meeting three. Two-thirty P.M. Drury check-in. Internal with Armand Austin.
 
-Lodging Dynamics, one hundred fifteen thousand dollars, closes today; it has been quiet thirty-four days and has no owner assigned.
+Armand owns partnerships — H.S.M., Source 1, ProfitSword.
 
-Peregrine Hospitality, five hundred thirteen thousand dollars, is twenty-five days since last contact, after the June third C.F.O. review with Stacy Galligan.
+Here is the deal context for Drury. Family-owned chain, 150-plus properties, primarily Midwest and Southeast. Workday runs their entire core supply chain — hard goods, O.S. and E., F.F. and E. They are happy with Workday. Joseph Appelbaum said it plainly on the May 6 call: "Honestly, on the Drury supply side for our normal hard goods and stuff, they're happy and everything's working great. I don't really see any opportunity there."
 
-The Baywood HITEC follow-up to Bhavica Patel bounced on June twenty-third; it needs a correct address.
+Reeco's only entry point is the approximately 40 properties that have kitchens and bars. The hook is Toast. Drury has gone all-in on Toast for F and B P.O.S. and is actively rolling it out now. Reeco integrates with Toast — the pitch is that Reeco closes the loop from depletions through purchasing through vendor invoice reconciliation. Toast without Reeco is half the picture.
 
-Crescent has had no logged contact in twenty-seven days, ahead of today's touchpoint.
+Open thread going into this check-in: Joseph Appelbaum was supposed to forward the Reeco F and B overview to Alan Kiefer, Director of Corporate F and B at Drury — that is the champion this deal needs. No confirmation that Kiefer received anything is logged. That is the key question.
 
-Your top five today.
+Internal read: Jessica Kramer noted in Slack on June 12 that Drury is high-value but price-sensitive on technology spend. Her words: "They hate spending money on tech, but Drury would be great."
 
-One. Act on the three deals that expire today. Push Nick Murray for the Sage property list, confirm Lexima with Nick Auer, and assign an owner to Lodging Dynamics.
+Two Drury news items from this week. Per Forbes, June 30, Drury was named a top value brand alongside Costco, Canva, and Melaleuca. And per Lodging Magazine and Hotels Magazine roughly four to six days ago, Drury broke ground on a new Daytona Beach property — their eighth in Florida and fourth Florida deal of 2026. That is growth happening. They are expanding.
 
-Two. Walk into the eleven a.m. Crescent touchpoint with answers on the two product gaps, bulk G.L. splits and invoice variance, and confirm Avendra positioning with Paul.
+Deal has no amount set in HubSpot yet. Estimated scope is around 40 F and B properties. Close date is March 2027. Long runway.
 
-Three. Re-engage Peregrine. Twenty-five days quiet on a five hundred thirteen thousand dollar proposal after the C.F.O. review.
+---
 
-Four. Fix the Baywood bounce. Get Bhavica Patel's correct address and resend.
+Meeting four. Four P.M. You are calling Ted.
 
-Five. Prep the Ted Jabara call. Lead with the M3-plus-Reeco modernization bundle, and the FoodBuy versus Avendra savings test.
+Ted Jabara the Third. Senior Vice President of Technical Services at Meyer Jabara Hotels. Domain is M J hotels dot com.
 
-Product updates. This is your product download for the day. First, what has recently gone to general availability and shipped.
+Deal: Meyer Jabara Hotels — New Logo — A.P. Automation. Qualified stage, no amount set, close August 31. Last HubSpot contact logged June 30.
 
-M3 and Corpay payments is live in M.V.P. pilot as of about June twenty-fifth. The first customers are Vision Hospitality and L5 Hospitality. The architecture: Reeco acts as the information relay and does not process payments directly; Corpay executes the payment. Phase one is corporate-only, M3 plus Corpay, posted invoices only, with per-property and per-vendor batching, four new M3 A.P.I.s, and a new, quote, Initiate Payments via M3, permission. Current limits: no partial payments and no voids yet. The deal impact spans Ocean Partners, E.O.S. and the Press Hotel, Due North, and Highgate, where you delivered the announcement at HITEC.
+You met Ted and Daroyl McDonald — S.V.P. Purchasing — at B.I.T.A.C. Operations in Fort Myers, April 27. About 31 minutes. The core opportunity is A.P. automation replacing DocLink and Ancora. Pricing: $100 per property per month, no setup costs, unlimited users and invoices.
 
-Automatic purchase-order matching, the three-way match, released May twenty-sixth. On upload, an invoice auto-matches to the most relevant purchase order with a confidence score. At eighty percent or higher, the P.O. auto-links and A.P. can validate line items, quantities, and pricing from the P.O. panel. Below eighty
+The pain points from that April meeting. Month-end invoice processing takes around 12 hours. Manual G.L. coding because DocLink does not support item-level multi-G.L. invoices. No budget or approval management in DocLink. ProfitSword integration delays — data arrives days late. Manual purchasing, and FoodBuy is too hard to use so ordering goes direct from vendor sites. No P.O.-to-invoice matching, which creates overpayment risk.
+
+What they need before they can move. Flex budgets that auto-scale with occupancy forecasts — at 50 cents per occupied room. And Sage Intacct A.P.I. fields for G.L. coding, approval triggers, and forecast data. The Sage Intacct integration is the key dependency.
+
+One positive signal: Daroyl explicitly rejected FoodBuy's own A.P. module. Reeco is G.P.O.-agnostic, which keeps their FoodBuy purchasing relationship intact.
+
+A follow-up deep dive on workflows, A.P.I.s, and budget logic was planned for the week of May 11 with Ted and Daroyl. Confirm whether that happened and where things stand now.
+
+---
+
+Industry news this week. Named sources only.
+
+First, the Folio and Avendra eProcurement partnership — Hotel Online, June 30. Already flagged in the Crescent section. Folio, a procure-to-pay platform, is now an Avendra Preferred Partner with a major hotel management company showing 10-plus percent improvement in Avendra program participation after deployment. This is a direct competitor in your lane for Avendra accounts.
+
+Second, HITEC 2026 recap — Hotel Technology News, June 23. Over 6,100 professionals attended in San Antonio. Key theme: A.I. is becoming embedded in hotel operating workflows, not sitting alongside them. Oracle launched an A.I.-assisted P.M.S. Inn-Flow expanded A.I. across procurement, inventory, accounting, labor, and B.I. BirchStreet and Avendra were both prominent in the procurement and back-office finance track. Reeco's V.P. of Marketing, Katie Adgent, was quoted by the conference organizers.
+
+Third, I.H.G. Q1 2026 results — I.H.G. investor releases, June 30. Global RevPAR up 4.4 percent. Americas up 3.6. C.E.O. called demand better than expected.
+
+Fourth, from Hospitality Net, April 10 — useful ammunition for selling. 82 percent of hotel decision-makers expect to expand A.I. use in the next 12 months. Analysis found the fastest A.I. return on investment in hotels is in invoice matching and purchasing automation. That is exactly what Reeco does.
+
+No material company-specific news for Meyer Jabara or Crescent this week beyond what is noted above.
+
+One local note on Crescent: per Biz Journals Baltimore, June 29, Crescent Hotels and Resorts took over management of the Kimpton Hotel Monaco Baltimore, which recently completed a $10 million renovation. That is a new logo addition to their portfolio.
+
+---
+
+Competitor alerts.
+
+BirchStreet was prominent at HITEC per Hotel Technology News June 23. The Folio and Avendra partnership is the most significant competitive development this week — covered above. No current public news this week on iBuy Efficient, ReactorNet, or Craftable.
+
+---
+
+Internal updates.
+
+No Fireflies calls from the past 48 hours qualified under the two-of-four threshold — that means no meetings in the last two days with two or more of Henrik, Omri, Katie, and Paul that did not include you. The Slack connector is not available this session, so I could not scan Slack independently. If something happened yesterday afternoon, check Slack directly.
+
+One item worth flagging from Fireflies: Bill Green ran a Reeco demo for Crowne Plaza Lansing on June 30. M3 customer. Follow-up deep dive is scheduled for the week of July 13, proposed date July 14 at 2:30 P.M. Eastern, focused on inventory and culinary modules. Pricing for the full bundle is being taken to the executive team there.
+
+---
+
+What is stuck.
+
+From the crack check dated June 30.
+
+One. Kana Hotel Group. $117,000. Close date expired yesterday, June 30. Last contact June 29. Chase Alpesh Patel for final ops approval and move this to Closed Won today.
+
+Two. InnVest Hotels. 81 properties, Canadian portfolio. Close date was also June 30 — overdue. Last contact May 22, that is 40 days. Confirm status and address the A.W.S. Canada data residency question. Contacts are McLean and Sherwin.
+
+Three. Peregrine Hospitality. $513,540. 26 days since last contact on June 5, after the C.F.O. review with Stacy Galligan. Late-stage and going quiet. Mid-July reconnect planned — do not let it slip further.
+
+Four. Vacatia. HITEC meeting June 17 with Michael Ridgewell — 13 days, no personalized follow-up sent. Vacatia was not in the June 30 HITEC follow-up batch. No open task. That contact has not been followed up.
+
+Five. Baywood Hotels. The June 23 follow-up to Bhavica Patel bounced — address not found. The prospect was never actually reached. Needs a corrected address.
+
+Six. H.V.M.G. — Hospitality Ventures Management Group. $223,200. Stalest active deal. Last contact April 17 — that is 75 days. Discovery still needed. No contacts on file.
+
+Seven. Olympia Hospitality. $134,640 Proposal. Last contact May 12, 50 days. No open task.
+
+Eight. Insignia Hospitality. $86,400 Demo. Last contact May 12, 50 days. No open task.
+
+Note: Slack commit scan was skipped in the June 30 crack check — Slack connector was not available at the time.
+
+---
+
+Your top five for today.
+
+One. Push Kana Hotel Group to Closed Won. Close date expired yesterday. Call or email Alpesh Patel this morning.
+
+Two. Coming out of the Crescent call — confirm where Paul Bennie's Avendra data sharing agreement stands. That is the R.F.P. protection mechanism. If it is not close to signed, the Folio partnership is a problem.
+
+Three. The four P.M. Ted Jabara call. Go in knowing the Sage Intacct integration requirement and the flex-budget occupancy-scaling ask at 50 cents per occupied room. Confirm the May 11 follow-up happened and what came from it. This deal has been quiet and the close date is August 31.
+
+Four. Lexima and Sage Pilot both close July 11 — that is 10 days. Touch both this week. Lexima: Nick Auer reviewing with C.F.O., C.E.O., and V.P. Ops. Sage: Nick Murray owes you a reply on the pilot property list — you asked June 25, no answer.
+
+Five. Vacatia. 13 days since HITEC, no follow-up sent. Send the personalized note today before the relationship goes cold.
+
+---
+
+Product updates.
+
+Here is what is shipped and what is coming.
+
+Reeco Payments Phase One launched around the HITEC timeframe in June via M3 and Corpay. Corporate view only, posted invoices only. The value is workflow consolidation — hotel companies no longer need a separate Corpay or PayMerang login. This is an efficiency play. It is not a rebate or V.C.C. play yet. Phase two — ghost-card rebate sharing and property-mode payments — is still future roadmap. Do not promise rebate economics on Phase One calls.
+
+A.I. P.O. matching is live at 80 to 90 percent confidence. It matches invoices to P.O.s even when no P.O. number is present, by scanning line items. Handles service-agreement P.O.s.
+
+Avendra catalog is at 344,000-plus items across around 300 suppliers. Guided purchasing for Avendra accounts is real, not partial.
+
+M3 exclusivity is in market. Reeco is M3's exclusive procurement and A.P. automation partner. Real-time A.P.I. versus competitors' batch file transfers. M3 integration fees are waived.
+
+Coming in July: the inventory module release. P.O.S. depletion tracking, requisition workflows with approval, and par-to-cart ordering. This is confirmed — Reeco's own product team had the requisition screen in active development as of this morning's standup. Silverware P.O.S. integration is targeted for Fall 2026. Oracle Simphony is live now.
+
+Snowflake analytics migration is underway. Multi-tenant architecture for enterprise-scale interactive reporting and zero-config E.T.L.
+
+Product gaps to know. No FoodBuy G.P.O. partnership yet — this blocks the ReactorNet displacement story. Bulk G.L. splits and invoice variance alerts flagged by Crescent in February are still outstanding. No Business Central accounting integration built yet. Barcode scanning is on the roadmap. Real-time bank balance visibility in Payments is out of scope for Phase One.
+
+The Control Room product board is the live source for roadmap votes and A.R.R. signal. Hit control dot reeco dot com slash product dash 2 for current status.
+
+End of briefing.

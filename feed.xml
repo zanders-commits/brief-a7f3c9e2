@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Zander's Daily Briefing</title>
     <link>https://zanders-commits.github.io/brief-a7f3c9e2/</link>
+    <description>Daily sales intelligence briefing for Zander Srodes at Reeco.</description>
     <language>en-us</language>
-    <description>A private daily enterprise-sales briefing for Zander Srodes — open deals, competitors, internal updates, product news, and the day's agenda. Auto-generated each weekday morning.</description>
-    <itunes:author>Reeco Sales Intelligence</itunes:author>
-    <itunes:summary>A private daily enterprise-sales briefing for Zander Srodes — open deals, competitors, internal updates, product news, and the day's agenda. Auto-generated each weekday morning.</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
-    <itunes:owner><itunes:name>Reeco Sales Intelligence</itunes:name><itunes:email>zanders@reeco.com</itunes:email></itunes:owner>
-    <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
+    <itunes:author>Claude / Reeco Sales Intelligence</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <lastBuildDate>Wed, 01 Jul 2026 11:49:43 +0000</lastBuildDate>
     <item>
       <title>Daily Briefing — Wednesday, July 1</title>
-      <description>Meetings: Crescent/Adam Butts (11a), internal pipeline (1p), Drury check-in (2:30), Ted Jabara/Meyer Jabara (4p). Internal: Reeco-Avendra exec sync (no Zander). Product: M3+Corpay payments live, 3-way PO match GA, credit memos, self-serve AP integrations.</description>
-      <enclosure url="https://zanders-commits.github.io/brief-a7f3c9e2/episodes/ep-2026-07-01.mp3" length="5238641" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-07-01-briefing</guid>
-      <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>8:44</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
+      <description>Meetings: Crescent/Adam Butts 11a (monthly touchpoint; RFP clock ticking, Avendra bundle is the play), Pipeline 1p, Drury check-in 2:30 internal, Ted Jabara/Meyer Jabara call 4p. Top 5: Kana Closed Won today, Crescent Avendra data-sharing status, Jabara Sage Intacct gate, Lexima+Sage Pilot 7/11 close, Vacatia follow-up overdue. Product: Payments Phase 1 live (M3+Corpay), AI PO match 80-90%, Avendra 344K items, Inventory module July.</description>
+      <pubDate>Wed, 01 Jul 2026 06:00:00 +0000</pubDate>
+      <enclosure url="https://zanders-commits.github.io/brief-a7f3c9e2/episodes/ep-2026-07-01.mp3" length="6023168" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-01</guid>
+      <link>https://zanders-commits.github.io/brief-a7f3c9e2/</link>
+      <itunes:duration>10:02</itunes:duration>
+      <itunes:summary>Meetings: Crescent/Adam Butts 11a (monthly touchpoint; RFP clock ticking, Avendra bundle is the play), Pipeline 1p, Drury check-in 2:30 internal, Ted Jabara/Meyer Jabara call 4p. Top 5: Kana Closed Won today, Crescent Avendra data-sharing status, Jabara Sage Intacct gate, Lexima+Sage Pilot 7/11 close, Vacatia follow-up overdue. Product: Payments Phase 1 live (M3+Corpay), AI PO match 80-90%, Avendra 344K items, Inventory module July.</itunes:summary>
+    </item>    <item>
       <title>Daily Briefing — Tuesday, June 30</title>
       <description>Headline briefing (NotebookLM v2): Highgate $1.92M enters pipeline; Sage nears signature; product batch payments, offline price updates.</description>
+      <pubDate>Tue, 30 Jun 2026 06:00:00 +0000</pubDate>
       <enclosure url="https://zanders-commits.github.io/brief-a7f3c9e2/episodes/ep-2026-06-30.mp3" length="18201841" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-06-30-briefing</guid>
-      <pubDate>Tue, 30 Jun 2026 11:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-06-30</guid>
+      <link>https://zanders-commits.github.io/brief-a7f3c9e2/</link>
       <itunes:duration>37:55</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Headline briefing (NotebookLM v2): Highgate $1.92M enters pipeline; Sage nears signature; product batch payments, offline price updates.</itunes:summary>
     </item>
   </channel>
 </rss>
