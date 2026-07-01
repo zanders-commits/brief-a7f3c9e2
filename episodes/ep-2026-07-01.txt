@@ -32,15 +32,9 @@ BirchStreet, the incumbent at Crescent, announced an A.I. Smart A.P. product in 
 
 Staffing intelligence, from Bill Green in the competitors channel on June third: a competitor hired Jon Castillo, an ex-BirchStreet vice president whom Adam Butts at Crescent speaks highly of, along with Karen O'Neill as a go-to-market sales leader. Adam's respect for Castillo is a relationship vector to watch.
 
-Internal updates. Meetings involving Henrik, Omri, Katie, or Paul.
+Internal updates. These are leadership calls that included two or more of Henrik, Omri, Katie, or Paul, and that you were not on.
 
-June twenty-ninth, your weekly one-on-one with Paul Bennie. You covered the Sage contract nearing finalization, the Kana pilot billing terms, the M3 and Sandpiper communication item with Lisa Quattrano, and the Avendra co-sell target list you are building with Bill and Annette.
-
-June twenty-ninth, the M3 and Reeco weekly, which Paul attended. The teams scoped batch payments, grouping vendor invoices into a single transaction to cut wire fees. Vision is the pilot customer.
-
-June twenty-ninth, Katie Adgent held a call with Provision Partners on public relations and marketing support for the second half of the year.
-
-June thirtieth, the product team's biweekly release preview, which Omri attended.
+Yesterday, June thirtieth, the weekly Reeco and Avendra sync. On the call: Henrik, Omri, and Paul, along with Roni, Yaniv, and Armand, plus Jesse Messitte and Jessica Fernandez from Avendra. The key points. The Avendra API integration is near complete, and an internal validation demo was scheduled to confirm functionality. Supplier engagement is the priority: the team is re-engaging Vistar, which has gone inactive, and working a customer integration request for Cintas to meet Vision Hospitality's needs. The partnership with Amazon has ended over category-management conflicts, though customers can still opt into an Amazon integration if they want it. And US Foods onboarding for Avendra clients is showing inconsistencies that the team is pushing to fix. Omri is providing the engineering support for the API testing. That is the only leadership call in the window that met the two-executive bar without you on it.
 
 Things stuck. One note: the Slack connector is not available to me right now, so this is drawn from today's vault crack-check, not a live Slack scan.
 
@@ -68,16 +62,8 @@ Four. Fix the Baywood bounce. Get Bhavica Patel's correct address and resend.
 
 Five. Prep the Ted Jabara call. Lead with the M3-plus-Reeco modernization bundle, and the FoodBuy versus Avendra savings test.
 
-Product updates. Detailed.
+Product updates. This is your product download for the day. First, what has recently gone to general availability and shipped.
 
-Batch payments. In the June twenty-ninth M3 and Reeco weekly, the teams scoped grouping multiple vendor invoices into a single transaction to reduce per-transfer wire fees and ease reconciliation. A new API is being built to handle the batching while leaving existing payment flows intact. Vision is the pilot customer, and both technical teams are sizing the effort this week.
+M3 and Corpay payments is live in M.V.P. pilot as of about June twenty-fifth. The first customers are Vision Hospitality and L5 Hospitality. The architecture: Reeco acts as the information relay and does not process payments directly; Corpay executes the payment. Phase one is corporate-only, M3 plus Corpay, posted invoices only, with per-property and per-vendor batching, four new M3 A.P.I.s, and a new, quote, Initiate Payments via M3, permission. Current limits: no partial payments and no voids yet. The deal impact spans Ocean Partners, E.O.S. and the Press Hotel, Due North, and Highgate, where you delivered the announcement at HITEC.
 
-The payments module pilot. In the June thirtieth accounts-payable and payments daily, budget adjustments were finalized ahead of the pilot launch.
-
-Automatic price updates for offline suppliers. From the June thirtieth price-update sync: an opt-in feature lets invoice uploads update pricing for offline private suppliers, with a new updated-date field that records price history. The revenue and efficiency squad owns the configuration, Andre's squad builds the job logic, and manually set prices are preserved.
-
-A.I. purchase-order matching, relevant to Crescent, is running at eighty to ninety percent confidence on the automated three-way match.
-
-Property setup text is moving into Google Sheets, so the team can edit it without code. In development: A.I. cards. In Q.A.: the bulk-upload feature and the Orango feature. And engineering migrated from SQL Server to Postgres using A.I. in about five hours.
-
-That is your briefing for July first. End of briefing.
+Automatic purchase-order matching, the three-way match, released May twenty-sixth. On upload, an invoice auto-matches to the most relevant purchase order with a confidence score. At eighty percent or higher, the P.O. auto-links and A.P. can validate line items, quantities, and pricing from the P.O. panel. Below eighty

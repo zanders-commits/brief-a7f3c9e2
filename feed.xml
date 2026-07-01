@@ -13,16 +13,16 @@
     <itunes:category text="Business"><itunes:category text="Management"/></itunes:category>
     <item>
       <title>Daily Briefing — Wednesday, July 1</title>
-      <description>Meetings: Crescent (Adam Butts, 11a), internal pipeline (1p), Drury check-in (2:30), Ted Jabara/Meyer Jabara (4p). Three deals expire today. Product: batch payments, offline price updates, payments pilot.</description>
-      <enclosure url="https://zanders-commits.github.io/brief-a7f3c9e2/episodes/ep-2026-07-01.mp3" length="4203668" type="audio/mpeg"/>
+      <description>Meetings: Crescent/Adam Butts (11a), internal pipeline (1p), Drury check-in (2:30), Ted Jabara/Meyer Jabara (4p). Internal: Reeco-Avendra exec sync (no Zander). Product: M3+Corpay payments live, 3-way PO match GA, credit memos, self-serve AP integrations.</description>
+      <enclosure url="https://zanders-commits.github.io/brief-a7f3c9e2/episodes/ep-2026-07-01.mp3" length="5238641" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-01-briefing</guid>
       <pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>8:45</itunes:duration>
+      <itunes:duration>8:44</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
       <title>Daily Briefing — Tuesday, June 30</title>
-      <description>Headline briefing: Highgate $1.92M enters pipeline; Sage nears signature; product — batch payments, offline-supplier auto price updates, payments pilot.</description>
+      <description>Headline briefing (NotebookLM v2): Highgate $1.92M enters pipeline; Sage nears signature; product batch payments, offline price updates.</description>
       <enclosure url="https://zanders-commits.github.io/brief-a7f3c9e2/episodes/ep-2026-06-30.mp3" length="18201841" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-30-briefing</guid>
       <pubDate>Tue, 30 Jun 2026 11:00:00 +0000</pubDate>
